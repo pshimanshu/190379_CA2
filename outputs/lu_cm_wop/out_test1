@@ -1,0 +1,16 @@
+LU Decomposition using Crout Method without Pivoting
+
+x
+1.5179
+1.9643
+0.6071
+
+L
+[4. 0. 0.]
+[2. 3. 0.]
+[0.         1.         4.66666667]
+
+U
+[1.  0.5 0. ]
+[0.         1.         0.33333333]
+[0. 0. 1.]

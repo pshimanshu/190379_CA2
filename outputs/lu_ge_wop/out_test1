@@ -1,0 +1,16 @@
+LU Decomposition using Gauss Elimination without Pivoting
+
+x
+1.5179
+1.9643
+0.6071
+
+L
+[1. 0. 0.]
+[0. 1. 0.]
+[0. 0. 1.]
+
+U
+[4. 0. 0.]
+[0. 3. 0.]
+[0.         0.         4.66666667]
